@@ -28,7 +28,7 @@ java文件的路径在：D:\workspace\SEdemo1\src\main\java\com\example\demo
 
 eclipse内在这里👇：
 
-![image-20210325164047928](img/image-20210325164047928.png)
+![image-20210325164047928](https://github.com/sAnsOxygEN/2021SE_Final_Project_MyWorkplace/blob/main/img/image-20210325164047928.png)
 
 ```java
 package com.example.demo;
